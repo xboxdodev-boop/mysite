@@ -1,0 +1,9 @@
+MNK ESQUADRIAS E ENGENHARIA — LANDING PAGE
+
+1. Abra index.html no navegador para visualizar.
+2. Para publicar, envie index.html, style.css, script.js e a pasta assets para a hospedagem, mantendo a estrutura.
+3. Site responsivo, com galeria de 20 fotos, filtros, zoom, animações, menu mobile e orçamento via WhatsApp.
+4. WhatsApp configurado: 11 96877-7273.
+5. E-mail mantido exatamente como informado: mnkengenharias@outlok.com. Confira se a grafia está correta antes de publicar (talvez seja outlook.com).
+6. Fontes Google Fonts exigem internet; fontes alternativas funcionam offline.
+7. O formulário não armazena dados: apenas prepara a mensagem para envio pelo WhatsApp.
