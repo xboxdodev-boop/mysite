@@ -1,0 +1,3 @@
+Correção: link Voltar ao topo agora usa rolagem suave via JavaScript e âncora no início do documento.
+Avisos/banners inseridos pelo próprio Netlify não fazem parte do código deste site e devem ser gerenciados nas configurações oficiais do Netlify.
+Publique todos os arquivos na raiz do repositório GitHub para disparar o deploy.
